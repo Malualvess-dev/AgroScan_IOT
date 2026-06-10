@@ -110,6 +110,22 @@ Responsável pelos alertas sonoros.
 
 ---
 
+## 🔗 Simulação no Wokwi
+
+A simulação do circuito ESP32 está disponível no Wokwi:
+
+👉 https://wokwi.com/projects/465487779393329153
+
+No projeto é possível visualizar:
+
+- Montagem do circuito
+- Código do ESP32
+- Display OLED funcionando
+- Leitura dos sensores simulados
+- Envio de dados para a API via Ngrok
+
+---
+
 ## 🔄 Fluxo do Sistema
 
 ```text
