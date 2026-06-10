@@ -292,7 +292,12 @@ Imagem disponível em:
 ```text
 docs/monitor-serial.png
 ```
+## 🎬 Demonstração em Vídeo
 
+O vídeo pitch apresenta a solução AgroScan IoT, sua arquitetura, componentes, integração com a API Spring Boot e demonstração prática do funcionamento.
+
+🔗 Video Pitch:
+https://youtu.be/V4m6ChnYhfg?si=o56_j0r9bmbK9wcz
 ---
 
 ## 🏆 Principais Recursos
