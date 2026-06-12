@@ -313,6 +313,25 @@ https://youtu.be/V4m6ChnYhfg?si=o56_j0r9bmbK9wcz
 
 ---
 
+## 🏆 Participantes
+
+RM: 561802
+Nome: Maria Luiza Alves de Aquino
+
+RM:560907
+Nome: João Victor Gomes
+
+RM:564508
+Nome:Lucas Barranha Giannini
+
+RM:561551
+Nome: Gabriel Fachin de Oliveira
+
+RM:565708
+Nome: Iago Dias Ainette
+
+
+
 ## 📌 Projeto Acadêmico
 
 Projeto desenvolvido para aplicação dos conceitos de Internet das Coisas (IoT), integração entre dispositivos embarcados e APIs REST, comunicação em rede e monitoramento em tempo real.
